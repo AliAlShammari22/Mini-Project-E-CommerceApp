@@ -9,6 +9,14 @@ const products = [
   },
   {
     id: 2,
+    title: "Nike T-Shirt",
+    image:
+      "https://media.footdistrict.com/width/2000/src/catalog/product/1/3/137_197597674285/--/t-shirts-nike-sportswear-mens-t-shirt-fz5397-010-0.jpg",
+    price: 13,
+    category: "Clothing",
+  },
+  {
+    id: 3,
     title: "Adidas Shoes",
     image:
       "https://www.side-step.co.za/media/catalog/product/cache/ead79d362eadd98297170252f181cb50/a/d/add6983lb-adidas-drop-step-low-ig4333-v1_jpg.jpg",
@@ -16,21 +24,21 @@ const products = [
     category: "Footwear",
   },
   {
-    id: 3,
+    id: 4,
     title: "Adidas T-Shirt",
     image:
       "https://assets.adidas.com/images/w_1880,f_auto,q_auto/970d213c54764c0f9a2daf150099f6a7_9366/IA4846_01_laydown.jpg",
     price: 12,
     category: "Clothing",
   },
-  {
-    id: 4,
-    title: "Nike T-Shirt",
-    image:
-      "https://media.footdistrict.com/width/2000/src/catalog/product/1/3/137_197597674285/--/t-shirts-nike-sportswear-mens-t-shirt-fz5397-010-0.jpg",
-    price: 13,
-    category: "Clothing",
-  },
+  //   {
+  //     id: 4,
+  //     title: "Nike T-Shirt",
+  //     image:
+  //       "https://media.footdistrict.com/width/2000/src/catalog/product/1/3/137_197597674285/--/t-shirts-nike-sportswear-mens-t-shirt-fz5397-010-0.jpg",
+  //     price: 13,
+  //     category: "Clothing",
+  //   },
   {
     id: 5,
     title: "Apple Air Pods Pro",

@@ -8,7 +8,7 @@ export default function Index() {
         flex: 1,
         justifyContent: "center",
         alignItems: "center",
-        backgroundColor: "#F4F6FF",
+        backgroundColor: "#FAF1E6",
       }}
     >
       <View style={{ flexDirection: "row", width: "100%" }}>
