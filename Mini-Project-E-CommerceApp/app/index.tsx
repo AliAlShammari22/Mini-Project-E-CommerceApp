@@ -11,16 +11,24 @@ export default function Index() {
         backgroundColor: "#F4F6FF",
       }}
     >
-      <Text
-        style={{
-          fontSize: 24,
-          fontWeight: "bold",
-          width: "100%",
-          padding: 15,
-        }}
-      >
-        FS SHOP
-      </Text>
+      <View style={{ flexDirection: "row", width: "100%" }}>
+        <Text
+          style={{
+            fontSize: 24,
+            fontWeight: "bold",
+            padding: 16,
+          }}
+        >
+          Ali's Shop
+        </Text>
+        <Text
+          style={{
+            marginTop: 23,
+          }}
+        >
+          Shop like you never do before.
+        </Text>
+      </View>
 
       <ProductList />
     </View>

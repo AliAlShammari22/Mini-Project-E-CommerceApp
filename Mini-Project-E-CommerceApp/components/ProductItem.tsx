@@ -21,7 +21,10 @@ const ProductItem = ({ product }: ProductItemsProps) => {
         borderRadius: 10,
         borderWidth: 0.5,
         borderColor: "#FE7743",
-        marginBottom: 30,
+        marginRight: 15,
+        marginBottom: 15,
+        marginLeft: 15,
+        marginTop: 5,
       }}
     >
       <Image
@@ -30,7 +33,7 @@ const ProductItem = ({ product }: ProductItemsProps) => {
         }}
         style={{
           height: 200,
-          width: 340,
+          width: "100%",
           borderRadius: 10,
           backgroundColor: "white",
         }}
